@@ -7,6 +7,9 @@
 </h1>
 
 <p align="center">
+  <a href="https://samyak-shrestha.github.io">
+  <img height="50" src="https://user-images.githubusercontent.com/46517096/166972883-f5f1d88c-0246-4374-88ac-ded0f2cf0699.png"/>
+</a>
 <a href="https://www.linkedin.com/in/samyak-shrestha/">
   <img height="50" src="https://user-images.githubusercontent.com/46517096/166973395-19676cd8-f8ec-4abf-83ff-da8243505b82.png"/>
 </a>
@@ -39,9 +42,8 @@ fields_of_interests:
 
 technical_background:
 [
-  "Full Stack Developer (Node.js, React, FastAPI)",
-  "Backend Developer (PostgreSQL, MongoDB, RESTful APIs)",
-  "Laravel & Symfony Developer",
+  "Full Stack Developer (PHP, Laravel, Symfony, Node.js, React, FastAPI)",
+  "Backend Developer (MySQL, MongoDB, RESTful APIs)",
   "Microservices & Docker Enthusiast",
 ]
 
@@ -68,7 +70,8 @@ hobbies:
   "Cycling",
   "Watching Movies",
   "Swimming",
-  "Exploring Minimalist Travel in Nepal",
+  "Hiking",
+  Traveling (Visited: Singapore, Malaysia)
 ]
 ```
   
