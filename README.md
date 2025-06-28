@@ -71,7 +71,7 @@ hobbies:
   "Watching Movies",
   "Swimming",
   "Hiking",
-  Traveling (Visited: Singapore, Malaysia)
+  "Traveling (Visited: Singapore, Malaysia)",
 ]
 ```
   
