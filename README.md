@@ -46,7 +46,7 @@ technical_background:
 ]
 currently_learning:
 [
-  "Red Hat Certified System Administrator (RHCSA®) & Red Hat® Certified Engineer (RHCE®)",
+  "Red Hat Enterprise Linux (RHCSA & RHCE)",
   "Enterprise DevOps (CI/CD, Kubernetes, Terraform)",
   "Cloud Infrastructure (AWS, Azure, GCP)",
 ]
