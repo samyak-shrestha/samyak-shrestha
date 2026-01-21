@@ -40,36 +40,32 @@ fields_of_interests:
 
 technical_background:
 [
-  "Full Stack Developer (PHP, Laravel, Symfony, Node.js, React, FastAPI)",
-  "Backend Developer (MySQL, MongoDB, RESTful APIs)",
+  "Full Stack Developer (Laravel, Symfony, Django)",
+  "Backend Developer (MySQL, RESTful APIs)",
   "Microservices & Docker Enthusiast",
 ]
-
 currently_learning:
 [
-  "Data Analysis & Visualization",
-  "Machine Learning & MLOps",
-  "Docker",
-  "Cloud Services (AWS Basics)",
-  "FastAPI",
+  "Red Hat Certified System Administrator (RHCSA®) & Red Hat® Certified Engineer (RHCE®)",
+  "Enterprise DevOps (CI/CD, Kubernetes, Terraform)",
+  "Cloud Infrastructure (AWS, Azure, GCP)",
 ]
 
-goals_2025:
+goals_2026:
 [
-  "Build production-ready MCP server infrastructure",
-  "Complete 5+ full-stack & ML-integrated projects",
-  "Master 5+ new technologies",
-  "Contribute to open source and tech blogs",
-  "Deepen understanding of data engineering pipelines",
+  "Obtain RHCSA & RHCE (RHEL 10) Certifications",
+  "Master Kubernetes & Docker for Production Microservices",
+  "Automate end-to-end CI/CD (Jenkins, Nexus, SonarQube)",
+  "Implement Multi-Cloud IaC & GitOps (Terraform, Ansible)",
+  "Setup Enterprise Observability (Prometheus, Grafana, ELK)",
 ]
 
 hobbies:
 [
   "Cycling",
-  "Watching Movies",
   "Swimming",
   "Hiking",
-  "Traveling (Visited: Singapore, Malaysia)",
+  "Traveling (Visited: India, Singapore, Malaysia)",
 ]
 ```
   
