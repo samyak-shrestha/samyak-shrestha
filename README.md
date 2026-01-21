@@ -33,8 +33,6 @@ current_job: Full Stack Developer
 fields_of_interests:
 [
   "Web Development",
-  "Data Science",
-  "Machine Learning",
   "DevOps",
   "Cloud Computing",
   "System Design"
